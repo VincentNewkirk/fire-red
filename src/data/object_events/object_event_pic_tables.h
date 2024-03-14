@@ -1752,3 +1752,16 @@ static const struct SpriteFrameImage sPicTable_Mom[] = {
     overworld_frame(gObjectEventPic_Mom, 2, 4, 2),
     overworld_frame(gObjectEventPic_Mom, 2, 4, 2),
 };
+
+// CUSTOM ASSESTS
+static const struct SpriteFrameImage sPicTable_Lunar_Guardian[] = {
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+    overworld_frame(gObjectEventPic_LunarGuardian, 2, 2, 0),
+};
